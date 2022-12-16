@@ -1,7 +1,7 @@
 [//]: # (https://github.com/antonkomarev/github-profile-views-counter)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Errons1)
 
-### Welcome to my page!
+### Snorre Ledal - Welcome page
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/snorre-ledal-b0944669/)
 ---
